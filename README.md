@@ -44,7 +44,7 @@ My goal is to complete **[phi-trading.com](https://phi-trading.com)** — an edu
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VelizarMitov)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/velizar-mitov-921288116)
 [![Website](https://img.shields.io/badge/Website-phi--trading.com-009688?style=for-the-badge&logo=vercel&logoColor=white)](https://phi-trading.com)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:v.mitov9898@gmail.com)
 
 ---
 
