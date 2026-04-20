@@ -6,7 +6,7 @@
 ---
 
 ## 🧠 About Me
-I’m an **AI for trading wannabe**, **junior Java enthusiast**, and **machine learning modeler in progress**.  
+I’m an **AI for trading wannabe**, **junior Developer enthusiast**, and **machine learning modeler in progress**.  
 Currently improving my backend development skills and experimenting with ways to combine **AI and trading automation**.  
 My goal is to complete **[phi-trading.com](https://phi-trading.com)** — an educational and analytical platform for traders focused on discipline, data, and intelligent forecasting.
 
