@@ -1,9 +1,5 @@
 # 👋 Hi, I’m Velizar Mitov  
 
-### 💼 Working at [FlatexDegiro](https://www.flatexdegiro.com/)  
-📍 Based in **Sofia, Bulgaria**
-
----
 
 ## 🧠 About Me
 I’m an **AI for trading wannabe**, **junior Developer enthusiast**, and **machine learning modeler in progress**.  
